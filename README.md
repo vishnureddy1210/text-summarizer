@@ -4,7 +4,7 @@ A web app that summarizes long text using Facebook's BART-large-CNN model.
 Built with Gradio and HuggingFace Transformers.
 
 ## Demo
-Live demo: [Click here](https://huggingface.co/spaces/YOUR_HF_USERNAME/text-summarizer)
+Live demo: [Click here](https://huggingface.co/spaces/vishnuvardhanreddy12/text-summarizer)
 
 ## Features
 - Paste any long text — news, articles, essays
@@ -20,7 +20,7 @@ Live demo: [Click here](https://huggingface.co/spaces/YOUR_HF_USERNAME/text-summ
 ## Installation
 
 1. Clone the repo
-   git clone https://github.com/YOUR_USERNAME/text-summarizer.git
+   git clone https://github.com/vishnureddy1210/text-summarizer.git
    cd text-summarizer
 
 2. Create virtual environment
@@ -42,4 +42,4 @@ text-summarizer/
 └── README.md
 
 ## Author
-Your Name — github.com/YOUR_USERNAME
+Your Name — github.com/vishnureddy1210
