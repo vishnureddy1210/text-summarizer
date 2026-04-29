@@ -4,7 +4,7 @@ A web app that summarizes long text using Facebook's BART-large-CNN model.
 Built with Gradio and HuggingFace Transformers.
 
 ## Demo
-Live demo: [Click here](https://huggingface.co/spaces/vishnuvardhanreddy12/text-summarizer)
+Live demo: [Click here](https://vishnuvardhanreddy12-text-summarizer.hf.space)
 
 ## Features
 - Paste any long text — news, articles, essays
